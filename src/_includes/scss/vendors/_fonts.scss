@@ -1,6 +1,0 @@
-@use "../mixins" as *;
-
-// Element: Fonts
-@include mix-font-face("Inter", "/fonts/Inter-Regular", 400, normal);
-@include mix-font-face("Inconsolata", "/fonts/Inconsolata-Regular", 400, normal);
-@include mix-font-fallback("Inter-Fallback", "Trebuchet MS");
