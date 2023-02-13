@@ -40,7 +40,7 @@ jobs:
         run: deno task build
 
       - name: "Deploy"
-        uses: Decodetalkers/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@v4.2.5
         with:
           branch: gh-pages
           folder: _site
