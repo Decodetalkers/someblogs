@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>jrson.me</title>
   <subtitle>I am a passionate web developer who likes to experiment with different stacks. I am forced to optimize things to infinity. I blog about my experience I like to share, using Node.js and Deno.</subtitle>
-  <link href="https://jrson.me/feed.xml" rel="self" type="application/rss+xml"/>
-  <link href="https://jrson.me/"/>
-  <updated>2023-02-13T06:11:31.913Z</updated>
-  <id>https://jrson.me/</id>
+  <link href="https://decodetalkers.github.io/someblogs/feed.xml" rel="self" type="application/rss+xml"/>
+  <link href="https://decodetalkers.github.io/someblogs/"/>
+  <updated>2023-02-13T06:15:28.728Z</updated>
+  <id>https://decodetalkers.github.io/someblogs/</id>
   <author>
     <name>jrson</name>
   </author>
   <entry>
     <title>Website Speed and Performance Optimization Part 1: Metrics and Tools</title>
-    <link href="https://jrson.me/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/"/>
-    <id>https://jrson.me/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/</id>
+    <link href="https://decodetalkers.github.io/someblogs/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/"/>
+    <id>https://decodetalkers.github.io/someblogs/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/</id>
     <updated>2023-01-30T01:00:00.000Z</updated>
     <summary>An insight into the optimization techniques I have applied to my blog.</summary>
   </entry>
