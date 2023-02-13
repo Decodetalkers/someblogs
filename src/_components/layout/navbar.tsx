@@ -24,7 +24,7 @@ export default (
       >
         <div className="container">
           <a
-            href="/"
+            href="/someblogs"
             itemProp="url"
             aria-label="Return home"
           >
