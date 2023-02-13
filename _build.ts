@@ -7,11 +7,13 @@ const createConfig = (mode: BuildMode) => {
   if (mode === "prod") {
     return {
       mode,
+      url: "/someblogs",
       location: new URL("https://decodetalkers.github.io/someblogs/ "),
     };
   }
   return {
     mode,
+    url: "/",
     location: new URL("http://localhost/"),
   };
 };

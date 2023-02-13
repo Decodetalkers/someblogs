@@ -1,5 +1,6 @@
 import type { Page, PageData, PageHelpers } from "#types";
 
+import { config } from "../../../_build.ts";
 export default (
   { activeUrl, comp, icons, search }: PageData,
   { urlFilter }: PageHelpers,
@@ -24,7 +25,7 @@ export default (
       >
         <div className="container">
           <a
-            href="/someblogs"
+            href={config.url}
             itemProp="url"
             aria-label="Return home"
           >
