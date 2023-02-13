@@ -7,7 +7,7 @@ const createConfig = (mode: BuildMode) => {
   if (mode === "prod") {
     return {
       mode,
-      location: new URL("https://jrson.me"),
+      location: new URL("https://decodetalkers.github.io/someblogs/ "),
     };
   }
   return {
