@@ -12,7 +12,7 @@ const createConfig = (mode: BuildMode) => {
   }
   return {
     mode,
-    location: new URL("http://localhost"),
+    location: new URL("http://localhost/someblogs"),
   };
 };
 
