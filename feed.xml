@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>jrson.me</title>
-  <subtitle>I am a passionate web developer who likes to experiment with different stacks. I am forced to optimize things to infinity. I blog about my experience I like to share, using Node.js and Deno.</subtitle>
+  <title>A little home</title>
+  <subtitle>I am a Nobody</subtitle>
   <link href="https://decodetalkers.github.io/someblogs/feed.xml" rel="self" type="application/rss+xml"/>
   <link href="https://decodetalkers.github.io/someblogs/"/>
-  <updated>2023-02-13T06:37:35.503Z</updated>
+  <updated>2023-10-29T14:10:09.784Z</updated>
   <id>https://decodetalkers.github.io/someblogs/</id>
   <author>
-    <name>jrson</name>
+    <name>Nobody</name>
   </author>
+  <entry>
+    <title>Learning fft</title>
+    <link href="https://decodetalkers.github.io/someblogs/blog/learning-fft/"/>
+    <id>https://decodetalkers.github.io/someblogs/blog/learning-fft/</id>
+    <updated>2023-10-29T22:02:00.000Z</updated>
+    <summary>A attempt to Learning sound.</summary>
+  </entry>
   <entry>
     <title>Website Speed and Performance Optimization Part 1: Metrics and Tools</title>
     <link href="https://decodetalkers.github.io/someblogs/blog/website-speed-and-performance-optimization-part-1-metrics-and-tools/"/>
