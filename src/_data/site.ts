@@ -1,18 +1,17 @@
 export default {
-  title: "jrson.me",
-  description:
-    "I am a passionate web developer who likes to experiment with different stacks. I am forced to optimize things to infinity. I blog about my experience I like to share, using Node.js and Deno.",
-  url: "https://jrson.me",
-  shortUrl: "jrson.me",
+  title: "A little home",
+  description: "I am a Nobody",
+  url: "ihttps://decodetalkers.github.io/someblogs/",
+  shortUrl: "decodetalkers.github.io/someblogs",
   lang: "en",
   author: {
-    name: "jrson",
-    url: "https://jrson.me",
+    name: "Nobody",
+    url: "https://github.com/Decodetalkers",
   },
   github: {
-    user: "jrson83",
-    url: "https://github.com/jrson83",
+    user: "Nobody",
+    url: "https://github.com/Decodetalkers",
   },
-  twitter: "@jrson83",
+  //twitter: "@jrson83",
   ogImage: "/images/site/og-placeholder-1200x630.png",
 } as const;
